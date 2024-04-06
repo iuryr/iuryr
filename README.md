@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 
 Hi there! Welcome to my GitHub!
 
-My name is Iury Santos and I am a University of Brasilia (UnB) trained economist. During 2012 and 2013 I was enrolled in a Masters Degree program in Statistics in University of São Paulo (I did not finish it, though). I have worked for 10 years in Brazil's Securities and Exchange Commission doing supervisory and research work around financial market participants (investment funds, brokers & dealers, exchanges). I left that around February 2023 to pursue a software engineering education in École 42 São Paulo unity (aka 42SP).
+My name is Iury Santos and I am a University of Brasilia (UnB) trained economist. During 2012 and 2013 I was enrolled in a Masters Degree program in Statistics in University of São Paulo (I did not finish it, though). I have worked for 10 years in Brazil's Securities and Exchange Commission doing supervisory and research work around financial market participants (investment funds, brokers & dealers, exchanges). I left that job around February 2023 to pursue a software engineering education in École 42 São Paulo unity (aka 42SP).
 
 Currently my main interests are:
+- Unix
 - Low level programming
-- Databases - mosty PostgreSQL (and how they use Data Structures to store, retrieve and process large amounts of data)
+- Databases - mosty PostgreSQL and SQLite - (and how they use Data Structures to store, retrieve and process large amounts of data)
 - Econometrics & Statistics (mainly time series methods)
 
 I code mainly in C and R, but have some exposure to SQL, Python and Lua as well.
