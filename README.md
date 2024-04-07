@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hi there! Welcome to my GitHub!
 
-My name is Iury Santos and I am a University of Brasilia (UnB) trained economist. During 2012 and 2013 I was enrolled in a Masters Degree program in Statistics in University of São Paulo (I did not finish it, though). I have worked for nine years in Brazil's Securities and Exchange Commission doing supervisory and research work around financial market participants (investment funds, brokers & dealers, exchanges). I left that job around February 2023 to pursue a software engineering education in École 42 São Paulo unity (aka 42SP).
+My name is Iury Santos and I am a University of Brasilia (UnB) trained economist. During 2012 and 2013 I was enrolled in a Masters Degree program in Statistics in University of São Paulo (I did not finish it, though). I worked for nine years at Brazil's Securities and Exchange Commission doing supervisory and research work around financial market participants (investment funds, brokers & dealers, exchanges). I left that job around February 2023 to pursue a software engineering education in École 42 São Paulo unity (aka 42SP).
 
 Currently my main interests are:
 - Unix
